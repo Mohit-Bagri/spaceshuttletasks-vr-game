@@ -16,8 +16,7 @@
   </p>
 
   <p align="center">
-    <a href="https://drive.google.com/file/d/15qvFWB-3ilB526Bnv-MyG3wQXX16g7Li/vie
-  w?usp=sharing" target="_blank">🎬 Watch Demo Video</a>
+    <a href="https://drive.google.com/file/d/15qvFWB-3ilB526Bnv-MyG3wQXX16g7Li/view?usp=sharing" target="_blank">🎬 Watch Demo Video</a>
   </p>
 
   ---
