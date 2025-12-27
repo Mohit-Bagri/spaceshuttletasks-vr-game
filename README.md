@@ -117,3 +117,7 @@
   | Play Area   | Stationary or Roomscale (2m x 2m)  |
 
   ---
+  <p align="center">
+         Made in 🇮🇳 with ❤️ by <a 
+             href="https://github.com/Mohit-Bagri">MOHIT BAGRI</a>
+        </p>
