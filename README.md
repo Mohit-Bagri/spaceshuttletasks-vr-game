@@ -3,6 +3,12 @@
   <p align="center"><strong>A VR Space Shuttle Experience</strong></p>
 
   <p align="center">
+  <a href="https://drive.google.com/file/d/15qvFWB-3ilB526Bnv-MyG3wQXX16g7Li/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_Live_Demo-split--kar--pro.vercel.app-F5C518?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo Video" />
+  </a>
+</p>
+
+  <p align="center">
     <img src="https://img.shields.io/badge/Unity-2022.3-black?logo=unity" 
   alt="Unity">
     <img src="https://img.shields.io/badge/C%23-Game%20Logic-239120?logo=csharp" 
@@ -15,9 +21,6 @@
   alt="ElevenLabs">
   </p>
 
-  <p align="center">
-    <a href="https://drive.google.com/file/d/15qvFWB-3ilB526Bnv-MyG3wQXX16g7Li/view?usp=sharing" target="_blank">🎬 Watch Demo Video</a>
-  </p>
 
   ---
 
@@ -117,7 +120,8 @@
   | Play Area   | Stationary or Roomscale (2m x 2m)  |
 
   ---
-  <p align="center">
-         Made in 🇮🇳 with ❤️ by <a 
-             href="https://github.com/Mohit-Bagri">MOHIT BAGRI</a>
-        </p>
+  <div align="center">
+
+Made in 🇮🇳 with ❤️ by [Mohit Bagri](https://mohitbagri-portfolio.vercel.app)
+
+</div>
