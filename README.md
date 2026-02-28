@@ -4,7 +4,7 @@
 
   <p align="center">
   <a href="https://drive.google.com/file/d/15qvFWB-3ilB526Bnv-MyG3wQXX16g7Li/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_Live_Demo-split--kar--pro.vercel.app-F5C518?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo Video" />
+    <img src="https://img.shields.io/badge/🔗_Demo_Video-space--shuttle--vr-F5C518?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo Video" />
   </a>
 </p>
 
